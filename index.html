@@ -3,6 +3,8 @@
     <head>
         <title>Bookshelf</title>
         <link rel="stylesheet" type="text/css" href="css/bookshelf.css">
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
     </head>
     <body>
         <div class = "titlePage">
@@ -11,15 +13,17 @@
         <div class = "spacer"></div>
         <form autocomplete="off" action="" name="bookForm">
             <div class="return">
-                <br/> Title:
+                <br/> Find a book:
                 <input type="text" name="title" id="title">
-                <button type="button" id = "search">Search</button>
+                <button type="button" name="search" id = "search">Search</button>
                 <br/>
                 <br/>
                 <br/>
+                <div class="results">
                 <div id = "titlereturn"></div>
                 <div id = "authorreturn"></div>
                 <div id = "descriptionreturn"></div>
+                </div>
             </div>
             <!--READ OR WANT TO -->
             <div id="bookyesorno">
@@ -61,7 +65,7 @@
                         </div>
                     </div>
                     <br />
-                    <input type= "submit"id = "submitRead">
+                    <input type= "submit" id = "submitRead">
                 </div>
                 <div id="wantToRead" class="hidden"> 
                     Title:
