@@ -1,0 +1,81 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #56704D;
+    text-align: center;
+}
+.titlePage {
+    height: 75px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #7EA172;
+    border-color: #A37774;
+    border-width: 10px;
+    padding-left: 10px;
+}
+.spacer {
+    height: 15px;
+    background-color: #C7CB85;
+}
+.return {
+    background-color: #7EA172;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.bookyesorno {
+    background-color: #7EA172;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.hidden {
+    display: none;
+    width: 25em;
+}
+#readIt {
+    background-color: #7EA172;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#wantToRead {
+    background-color: #7EA172;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#titlereturn {
+    font-family: "Helvetica", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+#authorreturn {
+    font-family: "Helvetica", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+#descriptionreturn {
+    font-family: "Helvetica", sans-serif;
+    font-size: 14px;
+}
+#bookyesorno {
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+}
+.bookList {
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+}
+#output {
+    padding-left: 20px;
+    height: auto;
+    width: auto;
+    background-color: #7EA172;
+}
+#goaloutput {
+    padding-left: 20px;
+    height: auto;
+    width: auto;
+    background-color: #7EA172;
+}
