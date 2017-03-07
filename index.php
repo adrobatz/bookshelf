@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Bookshelf</title>
-        <link rel="stylesheet" type="text/css" href="css/bookshelf.css">
+        <link rel="stylesheet" type="text/css" href="bookshelf.css">
         <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
     </head>
@@ -96,6 +96,6 @@
             </div>
 
         </form>
-        <script type="text/javascript" src="js/bookshelf.js"></script>
+        <script type="text/javascript" src="bookshelf.js"></script>
     </body>
 </html>
