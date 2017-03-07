@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Bookshelf</title>
-        <link rel="stylesheet" type="text/css" href="CSS/bookshelf.css">
+        <link rel="stylesheet" type="text/css" href="css/bookshelf.css">
         <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
     </head>
